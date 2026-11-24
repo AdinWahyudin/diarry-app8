@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Diary App 8 - Redux Toolkit",
+    "slug": "diary-app8",
+    "version": "1.0.0",
+    "orientation": "default",
+    "scheme": "diary-app8",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
